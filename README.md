@@ -2,7 +2,7 @@
 
 Cloned the <strong>Google</strong> webpage with CSS.
 
-Main concepts aplied: Grid and Flex box.
+Main concepts aplied: Grid and Flexbox.
 
 
 Check it out:
